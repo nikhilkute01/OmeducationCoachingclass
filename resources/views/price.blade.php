@@ -74,7 +74,7 @@
               <a href="">
                 <i class="fa fa-phone" aria-hidden="true"></i>
                 <span>
-                  Call : +01 123455678990
+                  Call : +91 9322308560
                 </span>
               </a>
             </div>
@@ -214,105 +214,90 @@
       <div class="price_container ">
         <div class="box">
           <div class="detail-box">
-            <h2>$ <span>49</span></h2>
+            <h2>RS <span>5000</span></h2>
             <h6>
-              Startup
+              Regular Batch
             </h6>
             <ul class="price_features">
               <li>
-                2GB RAM
+                Grade 11
               </li>
               <li>
-                20GB SSD Cloud Storage
+                and Grade 12
               </li>
               <li>
-                Weekly Backups
+                Interactive classes
               </li>
               <li>
-                DDoS Protection
+                Dought Sessions Available
               </li>
               <li>
-                Full Root Access
+                Proper Guidance by faculty
               </li>
               <li>
-                24/7/365 Tech Support
+                24/7/365  Support
               </li>
             </ul>
-          </div>
-          <div class="btn-box">
-            <a href="">
-              See Detail
-            </a>
           </div>
         </div>
         <div class="box">
           <div class="detail-box">
-            <h2>$ <span>99</span></h2>
+            <h2>RS <span>10000</span></h2>
             <h6>
-              Standard
+              NEET Crash Course
             </h6>
             <ul class="price_features">
               <li>
-                4GB RAM
+                PCB
               </li>
               <li>
-                50GB SSD Cloud Storage
+                Crash Course
               </li>
               <li>
-                Weekly Backups
+                Interactive classes
               </li>
               <li>
-                DDoS Protection
+                Dought Sessions Available
               </li>
               <li>
-                Full Root Access
+                Proper Guidance by faculty
               </li>
               <li>
-                24/7/365 Tech Support
+                24/7/365  Support
               </li>
             </ul>
           </div>
-          <div class="btn-box">
-            <a href="">
-              See Detail
-            </a>
-          </div>
+        
         </div>
         <div class="box">
           <div class="detail-box">
-            <h2>$ <span>149</span></h2>
+            <h2>RS <span>10000</span></h2>
             <h6>
-              Business
+              JEE Crash Course
             </h6>
             <ul class="price_features">
               <li>
-                8GB RAM
+                 JEE 
               </li>
               <li>
-                100GB SSD Cloud Storage
+              Crash Course
               </li>
               <li>
-                Weekly Backups
+                Interactive classes
               </li>
               <li>
-                DDoS Protection
+                Dought Sessions Available
               </li>
               <li>
-                Full Root Access
+                Proper Guidance by faculty
               </li>
               <li>
-                24/7/365 Tech Support
+                24/7/365  Support
               </li>
             </ul>
           </div>
-          <div class="btn-box">
-            <a href="">
-              See Detail
-            </a>
-          </div>
+          
         </div>
-      </div>
-    </div>
   </section>
 
   <!-- price section -->

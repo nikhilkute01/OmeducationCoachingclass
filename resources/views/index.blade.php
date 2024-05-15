@@ -109,10 +109,8 @@
                     <p>
                       Om Education & science Academy is One of The best Teaching Education Acadmey</p>
                     <div class="btn-box">
-                      <a href="" class="btn-1">
-                        Read More
-                      </a>
-                      <a href="" class="btn-2">
+                     
+                      <a href="{{Route('Contact')}}" class="btn-2">
                         Contact Us
                       </a>
                     </div>
@@ -309,105 +307,90 @@
       <div class="price_container ">
         <div class="box">
           <div class="detail-box">
-            <h2>$ <span>49</span></h2>
+            <h2>RS <span>5000</span></h2>
             <h6>
-              Startup
+              Regular Batch
             </h6>
             <ul class="price_features">
               <li>
-                2GB RAM
+                Grade 11
               </li>
               <li>
-                20GB SSD Cloud Storage
+                and Grade 12
               </li>
               <li>
-                Weekly Backups
+                Interactive classes
               </li>
               <li>
-                DDoS Protection
+                Dought Sessions Available
               </li>
               <li>
-                Full Root Access
+                Proper Guidance by faculty
               </li>
               <li>
-                24/7/365 Tech Support
+                24/7/365  Support
               </li>
             </ul>
-          </div>
-          <div class="btn-box">
-            <a href="">
-              See Detail
-            </a>
           </div>
         </div>
         <div class="box">
           <div class="detail-box">
-            <h2>$ <span>99</span></h2>
+            <h2>RS <span>10000</span></h2>
             <h6>
-              Standard
+              NEET Crash Course
             </h6>
             <ul class="price_features">
               <li>
-                4GB RAM
+                PCB
               </li>
               <li>
-                50GB SSD Cloud Storage
+                Crash Course
               </li>
               <li>
-                Weekly Backups
+                Interactive classes
               </li>
               <li>
-                DDoS Protection
+                Dought Sessions Available
               </li>
               <li>
-                Full Root Access
+                Proper Guidance by faculty
               </li>
               <li>
-                24/7/365 Tech Support
+                24/7/365  Support
               </li>
             </ul>
           </div>
-          <div class="btn-box">
-            <a href="">
-              See Detail
-            </a>
-          </div>
+        
         </div>
         <div class="box">
           <div class="detail-box">
-            <h2>$ <span>149</span></h2>
+            <h2>RS <span>10000</span></h2>
             <h6>
-              Business
+              JEE Crash Course
             </h6>
             <ul class="price_features">
               <li>
-                8GB RAM
+                 JEE 
               </li>
               <li>
-                100GB SSD Cloud Storage
+              Crash Course
               </li>
               <li>
-                Weekly Backups
+                Interactive classes
               </li>
               <li>
-                DDoS Protection
+                Dought Sessions Available
               </li>
               <li>
-                Full Root Access
+                Proper Guidance by faculty
               </li>
               <li>
-                24/7/365 Tech Support
+                24/7/365  Support
               </li>
             </ul>
           </div>
-          <div class="btn-box">
-            <a href="">
-              See Detail
-            </a>
-          </div>
+          
         </div>
-      </div>
-    </div>
   </section>
 
   <!-- price section -->
@@ -504,7 +487,7 @@
                 <div class="col-md-10 mx-auto">
                   <div class="box">
                     <div class="img-box">
-                      <img src="{{asset('asset/images/pooja Kolpe.jpg')}}" alt="">
+                      <img src="{{asset('asset/images/vinod.jpg')}}" alt="">
                     </div>
                     <div class="detail-box">
                       <div class="client_info">
@@ -517,7 +500,7 @@
                           </h6>
                         </div>
                         <i class="fa fa-quote-left" aria-hidden="true"></i>
-                      </div>
+               </div>
                       <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                         labore
